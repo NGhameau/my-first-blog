@@ -1,0 +1,10 @@
+
+
+python -m venv myvenv
+ac
+cd FOLDER
+python -m pip install --upgrade pip
+pip install -r django
+
+
+python manage.py startapp nameAPP
